@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://vosivusumuvi.pages.dev/sitemap.xml
